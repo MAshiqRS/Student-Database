@@ -1,0 +1,200 @@
+Shaila Sharmin:16101001:Female:1:1:O+:20:CSE:3.25:shailasharmin4034@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+nowaz Morshed Emon:16101002:Male:1:1:A-:21:CSE:3.00:nowajemon1@gmail.com:Adabor,Mohammadpur,Dhaka-:018********
+Mohaiminul Ridom:16101003:Male:1:1:B+:22:CSE:2.80:ridom12345@gmail.com:Rayerbag,Dhanmondi,Dhaka-:019********
+Fariha Raiyan Khan:16101004:Female:1:1:B-:23:CSE:3.20:fariharaiyan@gmail.com:Koborsthan,Azimpur,Dhaka-:016********
+Nirob Mahmud:16101005:Male:1:1:O+:24:CSE:3.44:nirobinstitution@gmail.com:Camp,Dhanmondi,Dhaka-:017********
+Amirul Islam Nahid:16101006:Male:1:1:A+:25:CSE:3.92:highschool34@gmail.com:Postogola,Keranigonj,Dhaka-:018********
+Anwar Hossain Akash:16101007:Male:1:1:B+:20:CSE:3.33:bishalakash034@gmail.com:Mirpur-14,Dhaka-:018********
+Fatema-Tuz_Zuhaira:16101008:Female:1:1:B+:21:CSE:3.00:borishailla44@gmail.com:Green Road,FarmGate,Dhaka-:018********
+Tamim Islam Shobuj:16101009:Male:1:1:B+:22:CSE:3.00:dinajpuira34@gmail.com:Tejkunipara,Farmgate,Dhaka-:017********
+Tanjid Mahmud:16101010:Male:1:1:O+:19:CSE:2.50:tanjidmahmud@gmail.com:Shewrapara,Mirpur,Dhaka-:016********
+Ali Islam Khan:16101011:Male:1:1:O+:20:CSE:2.19:Aliislamkhan@gmail.com:Modhubag,MMogbazar,Dhaka-:016********
+Jannatul Ferdaus Akhi:16101012:Female:1:1:B+:24:CSE:2.80:akhipakhi@gmail.com:Green Road,Farmgate,Dhaka-:016********
+Jannatul Ferdaus Konkon:16101013:Female:1:1:A+:22:CSE:3.20:kongkongknog@gmail.com:Araihajar,NarayonGonj,Dhaka-:015********
+Afia Tasnim Ankhi:16101014:Female:1:1:O+:22:CSE:2.67:dhongdhongdhong@gmail.com:Araihajar,NarayonGonj,Dhaka-:015********
+Mainul Hossain Shanto:16101015:Male:1:1:AB+:21:CSE:2.99:shanto4@gmail.com:PuranDhaka,Dhaka-:015********
+Marjia Akter:16101016:Female:1:1:AB+:23:CSE:3.67:Marjiaakter@gmail.com:Mirpur-12,Mirpur,Dhaka-:015********
+Tareq Ferdous:16101017:Male:1:1:AB+:24:CSE:3.00:tarekhasan03@gmail.com:Agargoan,Mirpur,Dhaka-:016********
+Tanzim ReZa:16101018:Male:1:1:AB+:21:CSE:3.25:tanzimreza@gmail.com:chowduripara,Rampura,Dhaka-:017********
+Saimun Hasan Sohan:16101019:Male:1:1:O+:20:CSE:3.08:simonhasanshohan@gmail.com:Shukrabad,Dhanmondi,Dhaka-:017********
+Abdur Rafiq:16101020:Male:1:1:B+:23:CSE:3.00:abrafiqabrafiq@gmail.com:Adabor,Mohammadpur,Dhaka-:018********
+Rehnuma Asad:16101021:Female:1:1:O+:18:CSE:3.28:ridifatty@gmail.com:sector-7,Uttara,Dhaka-:017********
+Badhon Roy:16101022:Male:1:1:O+:22:CSE:2.90:badhonroy404@gmail.com:Kajitula,PuranDhaka,Dhaka-:017********
+AI Tamim:16101023:Male:1:1:B+:24:CSE:3.50:shomoy434@gmail.com:Rajabazar,Farmgate,Dhaka-:017********
+Mahadi Hasan:16101024:Male:1:1:AB+:23:CSE:3.50:picciguru34@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Razin Rayhan:16101025:Male:1:1:B+:21:CSE:3.50:valochelerazin@gmail.com:Shewrapara,Mirpur,Dhaka-:016********
+Shahin Talukder:16101026:Male:1:2:A+:21:CSE:3.34:stmovies403@gmail.com:Ringroad,Mohammadpur,Dhaka-:016********
+Md.Ashiqur Rahman:16101027:Male:1:2:B+:18:CSE:3.61:ashiq.cse16@gmail.com:Chamelibag,Shantinagar,Dhaka-:016********
+Nabil Islam Oyon:16101028:Male:1:2:O+:21:CSE:3.14:nabilislam4034@gmail.com:Shewrapara,Mirpur,Dhaka-:016********
+Ariful Islam Raju:16101029:Male:1:2:O+:20:CSE:2.89:arifulislam@gmail.com:Adabor,Mohammadpur,Dhaka-:019********
+Naim Islam:16101030:Male:1:2:O+:20:CSE:2.87:naimdirectior@gmail.com:West Rajabazar,Farmgate,Dhaka-:019********
+Aminul Abdullah:16101031:Male:1:2:AB+:20:CSE:3.49:abdullah44@gmail.com:Wearless,Mogbazar,Dhaka-:019********
+Zarif Khan Mojlish:16101032:Male:1:2:B+:20:CSE:3.25:zarifkhan34@gmail.com:Dhanmondi,Dhaka-:019********
+Dipto Roy:16101033:Male:1:2:A+:23:CSE:3.75:roydip434@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Imrul Hasan:16101034:Male:1:2:A+:24:CSE:3.61:imrulhasan4@gmail.com:Jahangirnogor,Savar,Dhaka-:017********
+Salman Ali Khan:16101035:Male:1:2:A+:23:CSE:2.50:salmanalikhan@gmail.com:Shewrapara,Mirpur,Dhaka-:015********
+Fahim Shahriar Shetu:16101036:Male:1:2:B+:24:CSE:3.25:shetufahim@gmail.com:Kallanpur,Mirpur,Dhaka-:018********
+Minzamul Hasan:16101037:Male:1:2:B+:25:CSE:3.00:minjamhasan@gmail.com:Rajabazar,FarmgateDhaka-:018********
+Showrov Shaha:16101038:Male:1:2:AB+:25:CSE:2.98:shahacomilla@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Rakubul Islam Shuvo:16101039:Male:1:2:B+:20:CSE:3.25:rakibulhasan@gmail.com:Boro Moshjid,Mugda,Dhaka-:017********
+Rohan Mahmud:16101040:Male:1:2:A+:26:CSE:2.60:Rohanmahmud@gmail.com:Shonkor,Dhanmondi-15,Dhaka-:018********
+Afia Arifin:16101041:Female:1:2:O+:25:CSE:2.61:afiaarifin034@gmail.com:shukrabad,Dhanmondi,Dhaka-:017********
+Jisanul Hasan:16101042:Male:1:2:AB+:24:CSE:2.88:hasanjisan@gmail.com:Shewrapara,Mirpur,Dhaka-:015********
+Gowrov Das Dip:16101043:Male:1:2:O+:23:CSE:3.30:dasdip@gmail.com:Mohakhali DOSH,Dhaka-:015********
+AlAmin Khan Riad:16101044:Male:1:2:O+:23:CSE:3.00:riadkhan420@gmail.com:Wearless,Moghbazar,Dhaka-:015********
+Jonym Ghosh:16101045:Male:1:2:O+:22:CSE:2.75:ghosh111@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Mir Mumit:16101046:Male:1:2:B+:22:CSE:3.25:mirmumitewu@gmail.com:Bonosri,Rampura,Dhaka-:016********
+Fahim Abrar Mahee:16101047:Male:1:2:AB+:21:CSE:2.75:fahimmahi34@gmail.com:DOHS,Mirpur,Dhaka-:016********
+Tasnia Akter:16101048:Female:1:2:O+:21:CSE:2.67:tasniajahan78@gmail.com:Chamelibag,Shantinagar,Dhaka-:017********
+Masuma Parvin:16101049:Female:1:2:B+:22:CSE:2.80:masumaparvin97@gmail.com:Laxmibazar,PuranDhaka,Dhaka-:016********
+Mowmita Sharmin Mira:16101050:Female:1:2:B+:23:CSE:3.00:mowmitamira24@gmail.com:GreenRoad,Farmgate,Dhaka-:017********
+Rahimul Islam:16101051:Male:2:2:B+:17:EEE:3.55:rahimul4@gmail.com:DOHS,Mirpur,Dhaka-:018********
+Karimul Islam:16101052:Male:2:2:A-:18:EEE:3.00:islamkarim@gmail.com:Ring Road,Mohammadpur,Dhaka-:018********
+Shafayet Hossain:16101053:Male:2:2:A+:19:EEE:2.80:hossiansafayet@gmail.com:Dhanmondi-32,Dhaka-:018********
+Rokeya Rahman:16101054:Female:1:1:A-:20:EEE:3.80:rokeya1221@gmail.com:new market,Azimpur,Dhaka-:014********
+Nirob Rahman:16101055:Male:1:2:B+:21:EEE:3.74:nirob6767@gmail.com:Dhanmondi-27,Dhaka-:011********
+Amir Khan:16101056:Male:1:2:O+:22:EEE:3.91:khanproduction@gmail.com:Shuvadda,Keranigonj,Dhaka-:011********
+Anwarul Islam:16101057:Male:2:2:B+:22:EEE:3.33:mohammadanwar034@gmail.com:Ciriyakhana,Mirpur,Dhaka-:015********
+BIBI Fatema:16101058:Female:2:2:O+:23:EEE:3.55:fatima4@gmail.com:Panthapath,Green Road,Dhaka-:016********
+Tamim Iqbal:16101059:Male:1:1:AB+:24:EEE:3.50:khantamim4@gmail.com:Tejturipara,Farmgate,Dhaka-:016********
+Mahmud Sharkar:16101060:Male:2:2:AB+:25:EEE:2.50:mahmudsharkar@gmail.com:Mirpur-11,Dhaka-:015********
+Mohammad Ali:16101061:Male:2:1:O-:20:EEE:2.90:mohammadali@gmail.com:Modhugor,Mogbazar,Dhaka-:015********
+Jannatul Naim:16101062:Female:2:2:AB+:21:EEE:3.80:naimariaz@gmail.com:Green Road,Farmgate,Dhaka-:016********
+Jannatul Mawa:16101063:Female:2:1:AB-:22:EEE:3.10:jannatmawa@gmail.com:Araihajar,Rampura,Dhaka-:018********
+Anik Rahman:16101064:Male:2:2:O-:23:EEE:3.27:ankkhan@gmail.com:patuatuli,purandhaka,Dhaka-:019********
+Mainul islam:16101065:Male:2:2:B+:24:EEE:3.33:mainul9104@gmail.com:laxmibazar,PuranDhaka,Dhaka-:019********
+Morjina Akter:16101066:Female:2:2:A+:24:EEE:3.07:angelmorjina@gmail.com:Mirpur-10,Mirpur,Dhaka-:019********
+Tareq Rahman:16101067:Male:2:1:A-:25:EEE:3.20:tarekrahman0@gmail.com:sher-e-bangla nagar,Mirpur,Dhaka-:017********
+Khan Rawat:16101068:Male:3:2:B-:17:EEE:3.55:rawat@gmail.com:chowduripara,Malibag,Dhaka-:019********
+Imadul Islam:16101069:Male:4:2:A+:18:EEE:3.28:imadulislamrahat@gmail.com:Shutrapur,Dhaka-:019********
+Mohammad Rafiq:16101070:Male:2:2:B-:19:EEE:3.50:rafiqrafiq@gmail.com:Babar Road,Mohammadpur,Dhaka-:015********
+Rehman Sayma:16101071:Female:3:2:A-:20:EEE:3.58:rehmansayma@gmail.com:secor-2,Uttara,Dhaka-:017********
+Jahidul islam Razin:16101072:Male:4:2:B+:20:EEE:2.99:dextur404@gmail.com:Golacipa,PuranDhaka,Dhaka-:017********
+Mahedi Rayhan tomal:16101073:Male:3:2:O+:20:EEE:3.55:maheditomal434@gmail.com:Rajabazar,Farmgate,Dhaka-:017********
+Towhidur Rahman:16101074:Male:4:1:A-:20:EEE:3.55:towhid478534@gmail.com:Shewrapara,Mirpur,Dhaka-:016********
+Ariful Islam:16101075:Male:4:1:O+:21:EEE:3.55:arifhridoy@gmail.com:Shewrapara,Mirpur,Dhaka-:019********
+Shahin Zia:16101076:Male:3:1:B-:21:EEE:3.04:shahinzia403@gmail.com:Ringroad,Mohammadpur,Dhaka-:017********
+Ashiq Rahman Khan:16101077:Male:3:1:O-:22:EEE:3.55:khanmohammadashiq@gmail.com:Chamelibag,Shantinagar,Dhaka-:017********
+Mohammad Shuvo:16101078:Male:3:1:O-:22:EEE:3.24:shuvo034@gmail.com:Shewrapara,Mirpur,Dhaka-:014********
+Rasel Rahman:16101079:Male:3:1:B+:22:EEE:3.09:raselislam@gmail.com:Adabor,Mohammadpur,Dhaka-:017********
+Naim Uddin:16101080:Male:3:1:O-:22:EEE:2.98:naimctg@gmail.com:West Rajabazar,Farmgate,Dhaka-:016********
+Aminul islam Bulbul:16101081:Male:3:2:B+:21:EEE:2.49:bulbul44@gmail.com:Wearless,Mogbazar,Dhaka-:016********
+Zarif Rahman:16101082:Male:2:2:B-:23:EEE:3.15:zarifrahaman34@gmail.com:Dhanmondi,Dhaka-:017********
+Shahidul Islam Dipto:16101083:Male:3:2:A-:20:EEE:2.75:shahid434@gmail.com:Shewrapara,Mirpur,Dhaka-:018********
+Imrul Kayes:16101084:Male:4:1:O+:20:EEE:3.11:kayesbcb4@gmail.com:Jahangirnogor,Savar,Dhaka-:017********
+Salman Khan:16101085:Male:4:1:O+:20:EEE:2.50:khansalman@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Muntasir Fahim:16101086:Male:1:2:B-:20:EEE:3.15:f12ahim@gmail.com:Kallanpur,Mirpur,Dhaka-:017********
+Inzamamul Haque:16101087:Male:1:2:B-:25:EEE:3.66:haquepcb@gmail.com:Rajabazar,FarmgateDhaka-:017********
+Showrov Ganguly:16101088:Male:1:2:A+:24:EEE:3.33:gangulibcic@gmail.com:Shewrapara,Mirpur,Dhaka-:019********
+Rakubul Rayhan:16101089:Male:1:2:B+:23:EEE:3.45:rakibulrayhan@gmail.com:Boro Moshjid,Mugda,Dhaka-:018********
+Tahsin Rohan:16101090:Male:1:2:A+:22:EEE:3.60:Rohantahsin@gmail.com:Shonkor,Dhanmondi-15,Dhaka-:016********
+Afsana Kobir:16101091:Female:1:2:O+:22:EEE:3.61:kobir34@gmail.com:shukrabad,Dhanmondi,Dhaka-:015********
+Mahmudur Rahman:16101092:Male:1:2:AB-:22:EEE:3.48:mahrahman@gmail.com:Shewrapara,Mirpur,Dhaka-:019********
+Gowtam Gamvir:16101093:Male:1:2:O+:17:EEE:2.30:gowtambcci@gmail.com:Mohakhali DOSH,Dhaka-:017********
+Shahid Afridi:16101094:Male:1:2:O+:18:EEE:3.90:hopenotout4@gmail.com:Wearless,Moghbazar,Dhaka-:016********
+Mohammad Amir:16101095:Male:1:2:O+:19:EEE:3.75:amirpcb@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Mohammad Sami:16101096:Male:1:2:B-:20:EEE:3.77:samipcb@gmail.com:Bonosri,Rampura,Dhaka-:017********
+Shoyeb Akter:16101097:Male:1:2:AB-:20:EEE:2.99:akterpcb34@gmail.com:DOHS,Mirpur,Dhaka-:017********
+Rezina Kashem:16101098:Female:1:2:O-:22:EEE:3.95:kashemthefirstgirl@gmail.com:Chamelibag,Shantinagar,Dhaka-:017********
+Syima Khatun:16101099:Female:1:2:O+:21:EEE:3.89:syaimakhatun97@gmail.com:Laxmibazar,PuranDhaka,Dhaka-:017********
+Tahasina Tinni:161010100:Female:1:2:AB+:22:EEE:3.20:tinnitahasina24@gmail.com:GreenRoad,Farmgate,Dhaka-:017********
+Shaila Sharmin Nafisa:161010101:Female:1:1:O+:20:CE:3.25:shailasharmin4034@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+nowaz Morshed Islam:161010102:Male:1:1:A-:21:CE:3.00:nowajemon1@gmail.com:Adabor,Mohammadpur,Dhaka-:018********
+Mohaiminul Ridom Muntakim:161010103:Male:1:1:B+:22:CE:2.80:ridom12345@gmail.com:Rayerbag,Dhanmondi,Dhaka-:019********
+Fariha Raiyan faria:161010104:Female:1:1:B-:23:CE:3.20:fariharaiyan@gmail.com:Koborsthan,Azimpur,Dhaka-:016********
+Nirob Mahmud Pondit:161010105:Male:1:1:O+:24:CE:3.44:nirobinstitution@gmail.com:Camp,Dhanmondi,Dhaka-:017********
+Amirul Islam Jn:161010106:Male:1:1:A+:25:CE:3.92:highschool34@gmail.com:Postogola,Keranigonj,Dhaka-:018********
+Anwar Hossain Star:161010107:Male:1:1:B+:20:CE:3.33:bishalakash034@gmail.com:Mirpur-14,Dhaka-:018********
+Fatema-Tuz_Zuhaira rina:161010108:Female:1:1:B+:21:CE:3.00:borishailla44@gmail.com:Green Road,FarmGate,Dhaka-:018********
+Tamim Islam Shobuj Khan:161010109:Male:1:1:B+:22:CE:3.00:dinajpuira34@gmail.com:Tejkunipara,Farmgate,Dhaka-:017********
+Tanjid Mahmud Shovon:161010110:Male:1:1:O+:19:CE:2.50:tanjidmahmud@gmail.com:Shewrapara,Mirpur,Dhaka-:016********
+Ali Islam Mohammad:161010111:Male:1:1:B+:20:CE:2.00:Aliislamkhan@gmail.com:Modhubag,MMogbazar,Dhaka-:016********
+Jannatul Ferdaus Naim:161010112:Female:1:1:AB+:24:CE:2.80:akhipakhi@gmail.com:Green Road,Farmgate,Dhaka-:016********
+Jannatul Ferdaus Runa:161010113:Female:1:1:A-:22:CE:3.20:kongkongknog@gmail.com:Araihajar,NarayonGonj,Dhaka-:015********
+Afia Tasnim Ruhi:161010114:Female:1:1:O+:22:CE:2.67:dhongdhongdhong@gmail.com:Araihajar,NarayonGonj,Dhaka-:015********
+Hossain Shanto:161010115:Male:1:1:AB+:21:CE:2.99:shanto4@gmail.com:PuranDhaka,Dhaka-:015********
+Marjia Akter Pinky:161010116:Female:1:1:AB+:23:CE:3.67:Marjiaakter@gmail.com:Mirpur-12,Mirpur,Dhaka-:015********
+Tareq Ferdous Khan:161010117:Male:1:1:B+:24:CE:3.00:tarekhasan03@gmail.com:Agargoan,Mirpur,Dhaka-:016********
+Tanzim ReZaul Islam:161010118:Male:1:1:A+:21:CE:3.25:tanzimreza@gmail.com:chowduripara,Rampura,Dhaka-:017********
+Saimun Hasan Sohan Prottoy:161010119:Male:1:1:O+:20:CE:3.08:simonhasanshohan@gmail.com:Shukrabad,Dhanmondi,Dhaka-:017********
+Abdur Rafiq Abdur Rafiq:161010120:Male:1:1:B+:23:CE:3.00:abrafiqabrafiq@gmail.com:Adabor,Mohammadpur,Dhaka-:018********
+Rehnuma Asad Ra:161010121:Female:1:1:O-:18:CE:3.28:ridifatty@gmail.com:sector-7,Uttara,Dhaka-:017********
+Badhon Roy Br:161010122:Male:1:1:O+:22:CE:2.90:badhonroy404@gmail.com:Kajitula,PuranDhaka,Dhaka-:017********
+AI Tamim AIM:161010123:Male:1:1:B+:24:CE:3.50:shomoy434@gmail.com:Rajabazar,Farmgate,Dhaka-:017********
+Mahadi Hasan MH:161010124:Male:1:1:AB-:23:CE:3.50:picciguru34@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Razin Rayhan RR:161010125:Male:1:1:B-:21:CE:3.50:valochelerazin@gmail.com:Shewrapara,Mirpur,Dhaka-:016********
+Shahin Talukder SK:161010126:Male:1:2:A+:21:CE:3.34:stmovies403@gmail.com:Ringroad,Mohammadpur,Dhaka-:016********
+Md.Ashiqur Rahman Khan Shuvo:161010127:Male:1:2:B+:18:CE:3.99:ashiq.cse16@gmail.com:Chamelibag,Shantinagar,Dhaka-:016********
+Nabil Oyon:161010128:Male:1:2:O+:21:CE:3.14:nabilislam4034@gmail.com:Shewrapara,Mirpur,Dhaka-:016********
+Arifur Rahman Asif:161010129:Male:1:2:O+:20:CE:2.89:arifulislam@gmail.com:Adabor,Mohammadpur,Dhaka-:019********
+Naim Islam Mahe:161010130:Male:1:2:O+:20:CE:2.87:naimdirectior@gmail.com:West Rajabazar,Farmgate,Dhaka-:019********
+Aminul Al-Abdullah:161010131:Male:1:2:O+:20:CE:3.49:abdullah44@gmail.com:Wearless,Mogbazar,Dhaka-:019********
+Zariful islam Mojlish:161010132:Male:1:2:B+:20:CE:3.25:zarifkhan34@gmail.com:Dhanmondi,Dhaka-:019********
+Dibalok Roy:161010133:Male:1:2:A+:23:CE:3.75:roydip434@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Imrul Hasan Miraj:161010134:Male:1:2:A+:24:CE:3.61:imrulhasan4@gmail.com:Jahangirnogor,Savar,Dhaka-:017********
+Salman Ali Khan Riad:161010135:Male:1:2:A+:23:CE:2.50:salmanalikhan@gmail.com:Shewrapara,Mirpur,Dhaka-:015********
+Fahim Shahriar SK:161010136:Male:1:2:B-:24:CE:3.25:shetufahim@gmail.com:Kallanpur,Mirpur,Dhaka-:018********
+Minzamul Hasan Naim:161010137:Male:1:2:B+:25:CE:3.00:minjamhasan@gmail.com:Rajabazar,FarmgateDhaka-:018********
+Showrov pal:161010138:Male:1:2:AB+:25:CE:2.98:shahacomilla@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Rakubul Shuvo:161010139:Male:1:2:B+:20:CE:3.25:rakibulhasan@gmail.com:Boro Moshjid,Mugda,Dhaka-:017********
+Rohan Mahmud Shafaet:161010140:Male:1:2:A+:26:CE:2.60:Rohanmahmud@gmail.com:Shonkor,Dhanmondi-15,Dhaka-:018********
+Afia Arifin khondokar:161010141:Female:1:2:O+:25:CE:2.61:afiaarifin034@gmail.com:shukrabad,Dhanmondi,Dhaka-:017********
+Jisanul Nahid:161010142:Male:1:2:AB+:24:CE:2.88:hasanjisan@gmail.com:Shewrapara,Mirpur,Dhaka-:015********
+Gowrov Dip:161010143:Male:1:2:O+:23:CE:3.30:dasdip@gmail.com:Mohakhali DOSH,Dhaka-:015********
+AlAmin Khan Riad CR:161010144:Male:1:2:O+:23:CE:3.00:riadkhan420@gmail.com:Wearless,Moghbazar,Dhaka-:015********
+Jonym Ghosh rony:161010145:Male:1:2:O+:22:CE:2.75:ghosh111@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Mir Mumit Mahi:161010146:Male:1:2:B+:22:CE:3.45:mirmumitewu@gmail.com:Bonosri,Rampura,Dhaka-:016********
+Fahim Abrar:161010147:Male:1:2:AB+:21:CE:2.75:fahimmahi34@gmail.com:DOHS,Mirpur,Dhaka-:016********
+Tasnia Akter Shumi:161010148:Female:1:2:O+:21:CE:2.67:tasniajahan78@gmail.com:Chamelibag,Shantinagar,Dhaka-:017********
+Masuma Parvin Ripa:161010149:Female:1:2:B+:22:CE:2.70:masumaparvin97@gmail.com:Laxmibazar,PuranDhaka,Dhaka-:016********
+Mowmita Sharmin Lopa:161010150:Female:1:2:B+:23:CE:3.00:mowmitamira24@gmail.com:GreenRoad,Farmgate,Dhaka-:017********
+Rahimul Islam Korim:161010151:Male:2:2:B+:17:PHARMACY:3.75:rahimul4@gmail.com:DOHS,Mirpur,Dhaka-:018********
+Karimul Islam jolil:161010152:Male:2:2:A-:18:PHARMACY:3.00:islamkarim@gmail.com:Ring Road,Mohammadpur,Dhaka-:018********
+Shafayet Hossain rohim:161010153:Male:2:2:A+:19:PHARMACY:2.80:hossiansafayet@gmail.com:Dhanmondi-32,Dhaka-:018********
+Rokeya Rahman Zara:161010154:Female:1:1:A-:20:PHARMACY:3.70:rokeya1221@gmail.com:new market,Azimpur,Dhaka-:014********
+Nirob Rahman Safat:161010155:Male:1:2:B+:21:PHARMACY:3.74:nirob6767@gmail.com:Dhanmondi-27,Dhaka-:011********
+Amir Khan Shovon:161010156:Male:1:2:O+:22:PHARMACY:3.91:khanproduction@gmail.com:Shuvadda,Keranigonj,Dhaka-:011********
+Anwarul Haque:161010157:Male:2:2:B+:22:PHARMACY:2.33:mohammadanwar034@gmail.com:Ciriyakhana,Mirpur,Dhaka-:015********
+Fatema e Lopa:161010158:Female:2:2:O+:23:PHARMACY:3.55:fatima4@gmail.com:Panthapath,Green Road,Dhaka-:016********
+Tamim Iqbal sabbir:161010159:Male:1:1:B+:24:PHARMACY:3.50:khantamim4@gmail.com:Tejturipara,Farmgate,Dhaka-:016********
+Mahmud Sharkar nabil:161010160:Male:2:2:AB+:25:PHARMACY:2.50:mahmudsharkar@gmail.com:Mirpur-11,Dhaka-:015********
+Mohammad Ali Jinnah:161010161:Male:2:1:O-:20:PHARMACY:3.90:mohammadali@gmail.com:Modhugor,Mogbazar,Dhaka-:015********
+Jannatul Naim Ripa:161010162:Female:2:2:AB+:21:PHARMACY:3.80:naimariaz@gmail.com:Green Road,Farmgate,Dhaka-:016********
+Jannatul Mawa Rupa:161010163:Female:2:1:A-:22:PHARMACY:3.10:jannatmawa@gmail.com:Araihajar,Rampura,Dhaka-:018********
+Anik Rahman Arif:161010164:Male:2:2:O-:23:PHARMACY:3.17:ankkhan@gmail.com:patuatuli,purandhaka,Dhaka-:019********
+Mainul islam Monir:161010165:Male:2:2:B+:24:PHARMACY:3.63:mainul9104@gmail.com:laxmibazar,PuranDhaka,Dhaka-:019********
+Morjina Akter Banu:161010166:Female:2:2:O+:24:PHARMACY:3.47:angelmorjina@gmail.com:Mirpur-10,Mirpur,Dhaka-:019********
+Tareq Rahman Zia:161010167:Male:2:1:A-:25:PHARMACY:3.20:tarekrahman0@gmail.com:sher-e-bangla nagar,Mirpur,Dhaka-:017********
+Khan Rawat Mohammad:161010168:Male:3:2:B-:17:PHARMACY:3.55:rawat@gmail.com:chowduripara,Malibag,Dhaka-:019********
+Imadul Islam mehedi:161010169:Male:4:2:A+:18:PHARMACY:3.28:imadulislamrahat@gmail.com:Shutrapur,Dhaka-:019********
+Mohammad Rafiqul Islam:161010170:Male:2:2:B+:19:PHARMACY:3.50:rafiqrafiq@gmail.com:Babar Road,Mohammadpur,Dhaka-:015********
+Rehman khondokar Sayma:161010171:Female:3:2:A-:20:PHARMACY:3.58:rehmansayma@gmail.com:secor-2,Uttara,Dhaka-:017********
+Towfique Hasan:161010172:Male:4:2:B+:20:PHARMACY:2.99:dextur404@gmail.com:Golacipa,PuranDhaka,Dhaka-:017********
+Mahedi Rayhan shakil:161010173:Male:3:2:O+:20:PHARMACY:3.55:maheditomal434@gmail.com:Rajabazar,Farmgate,Dhaka-:017********
+Towhidur Rahman Anique:161010174:Male:4:1:A-:20:PHARMACY:3.55:towhid478534@gmail.com:Shewrapara,Mirpur,Dhaka-:016********
+Ariful Islam Hridoy:161010175:Male:4:1:O+:21:PHARMACY:3.55:arifhridoy@gmail.com:Shewrapara,Mirpur,Dhaka-:019********
+Shahin Ziaur Rahman:161010176:Male:3:1:B-:21:ARCHITECTURE:3.04:shahinzia403@gmail.com:Ringroad,Mohammadpur,Dhaka-:017********
+Ashiq Rahman Khan Shuvo:161010177:Male:3:1:O+:22:ARCHITECTURE:3.55:khanmohammadashiq@gmail.com:Chamelibag,Shantinagar,Dhaka-:017********
+Mohammad Shuvo khan:161010178:Male:3:1:O-:22:ARCHITECTURE:3.24:shuvo034@gmail.com:Shewrapara,Mirpur,Dhaka-:014********
+Rasel Rahman Rana:161010179:Male:3:1:B+:22:ARCHITECTURE:3.09:raselislam@gmail.com:Adabor,Mohammadpur,Dhaka-:017********
+Naim Uddin shah:161010180:Male:3:1:O-:22:ARCHITECTURE:3.58:naimctg@gmail.com:West Rajabazar,Farmgate,Dhaka-:016********
+Aminul alam Bulbul:161010181:Male:3:2:B-:21:ARCHITECTURE:2.29:bulbul44@gmail.com:Wearless,Mogbazar,Dhaka-:016********
+Zarif Rahman dipto:161010182:Male:2:2:B-:23:ARCHITECTURE:3.15:zarifrahaman34@gmail.com:Dhanmondi,Dhaka-:017********
+Shahidul Islam khan:161010183:Male:3:2:A-:20:ARCHITECTURE:2.75:shahid434@gmail.com:Shewrapara,Mirpur,Dhaka-:018********
+Imrul Kayes shakib:161010184:Male:4:1:O+:20:ARCHITECTURE:3.11:kayesbcb4@gmail.com:Jahangirnogor,Savar,Dhaka-:017********
+Salman F Rahman Khan:161010185:Male:4:1:O+:20:ARCHITECTURE:2.55:khansalman@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Muntasir Fahim grz:161010186:Male:1:2:AB-:20:ARCHITECTURE:3.15:f12ahim@gmail.com:Kallanpur,Mirpur,Dhaka-:017********
+Inzamamul Haque khan:161010187:Male:1:2:B+:25:ARCHITECTURE:3.66:haquepcb@gmail.com:Rajabazar,FarmgateDhaka-:017********
+Showrov vottacarjo Ganguly:161010188:Male:1:2:A+:24:ARCHITECTURE:3.33:gangulibcic@gmail.com:Shewrapara,Mirpur,Dhaka-:019********
+Rakubul Rayhan khondokar:161010189:Male:1:2:B+:23:ARCHITECTURE:3.45:rakibulrayhan@gmail.com:Boro Moshjid,Mugda,Dhaka-:018********
+Tahsin Rohan mahmud:161010190:Male:1:2:A-:22:ARCHITECTURE:3.60:Rohantahsin@gmail.com:Shonkor,Dhanmondi-15,Dhaka-:016********
+Afsana Kobir anika :161010191:Female:1:2:O+:22:ARCHITECTURE:3.61:kobir34@gmail.com:shukrabad,Dhanmondi,Dhaka-:015********
+Mahmudur Rahman shojol:161010192:Male:1:2:AB-:22:ARCHITECTURE:3.50:mahrahman@gmail.com:Shewrapara,Mirpur,Dhaka-:019********
+Gowtam kumar Gamvir:161010193:Male:1:2:O+:17:ARCHITECTURE:2.15:gowtambcci@gmail.com:Mohakhali DOSH,Dhaka-:017********
+Shahid Khan Afridi:161010194:Male:1:2:O+:18:ARCHITECTURE:3.97:hopenotout4@gmail.com:Wearless,Moghbazar,Dhaka-:016********
+Mohammad Amirul Islam:161010195:Male:1:2:O+:19:ARCHITECTURE:3.75:amirpcb@gmail.com:Shewrapara,Mirpur,Dhaka-:017********
+Mohammad Samiul islam:161010196:Male:1:2:B-:20:ARCHITECTURE:3.70:samipcb@gmail.com:Bonosri,Rampura,Dhaka-:017********
+Shoyeb Akter Paser:161010197:Male:1:2:AB+:20:ARCHITECTURE:2.99:akterpcb34@gmail.com:DOHS,Mirpur,Dhaka-:017********
+Rezina Akter Kashem:161010198:Female:1:2:O-:22:ARCHITECTURE:3.95:kashemthefirstgirl@gmail.com:Chamelibag,Shantinagar,Dhaka-:017********
+Syima Rahman Khatun:161010199:Female:1:2:O+:21:ARCHITECTURE:3.89:syaimakhatun97@gmail.com:Laxmibazar,PuranDhaka,Dhaka-:017********
+Tahasina khan Tinni:161010200:Female:1:2:B+:22:ARCHITECTURE:3.20:tinnitahasina24@gmail.com:GreenRoad,Farmgate,Dhaka-:017********
